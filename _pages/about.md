@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Mingran Zhang is a Ph.D Researcher in Accounting at University of Bath's School of Management, where she is fully funded and collaborates with her doctoral supervisor, Professor Dimitrios Gounopoulos. She works on climate accounting, ESG, sustainable accounting and financial reporting quality. Through her research on ESG topics, she provides insights on how accounting can contribute to a more sustainable future. 
+
+Mingran holds dual master's degrees (MRes, MSc) and triple bachelor's degrees (BSc, BA, BMgt). Before transitioning to the academic world, Mingran made significant contributions to the business industry with her expertise in auditing and venture capital. She is also a qualified member and mentor in the Insight Leader Programme of the Association of Chartered Certified Accountants (ACCA). 
 
 A data-driven personal website
 ======
