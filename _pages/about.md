@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Mingran Zhang is a Ph.D Researcher in Accounting at University of Bath's School of Management, where she is fully funded and collaborates with her doctoral supervisor, Professor Dimitrios Gounopoulos. She works on climate accounting, ESG, sustainable accounting and financial reporting quality. Through her research on ESG topics, she provides insights on how accounting can contribute to a more sustainable future. 
+Mingran Zhang is a Ph.D Researcher in Accounting at University of Bath's School of Management, where she is fully funded and collaborates with Professor Dimitrios Gounopoulos. She works on climate accounting, ESG, sustainable accounting and financial reporting quality. Through her research on ESG topics, she provides insights on how accounting can contribute to a more sustainable future. 
 
 Mingran holds dual master's degrees (MRes, MSc) and triple bachelor's degrees (BSc, BA, BMgt). Before transitioning to the academic world, Mingran made significant contributions to the business industry with her expertise in auditing and venture capital. She is also a qualified member and mentor in the Insight Leader Programme of the Association of Chartered Certified Accountants (ACCA). 
 
