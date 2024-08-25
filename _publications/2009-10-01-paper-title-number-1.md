@@ -18,7 +18,6 @@ instruments in a given year, have high market leverage and are headquartered in 
 have low climate change belief. Our research is the first study that shows the link between corporate misreporting behaviour and 
 climate change. For policymakers, we highlight the need for accounting standard-setters to incorporate 
 explicit guidelines on climate-related issues, underscoring a significant gap in current GAAP regulations."
-date: Working Paper
 
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
